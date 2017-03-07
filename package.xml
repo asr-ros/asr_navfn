@@ -14,11 +14,9 @@
     <author>Kurt Konolige</author>
     <author>Eitan Marder-Eppstein</author>
     <author>contradict@gmail.com</author>
+    <author>Felix Marek</author>
     <maintainer email="asr-ros@lists.kit.edu">Meißner Pascal</maintainer>    
-    <maintainer email="davidvlu@gmail.com">David V. Lu!!</maintainer>
-    <maintainer email="mferguson@fetchrobotics.com">Michael Ferguson</maintainer>
     <license>BSD</license>
-    <url>http://wiki.ros.org/navfn</url>
 
     <buildtool_depend version_gte="0.5.68">catkin</buildtool_depend>
 

@@ -1,6 +1,6 @@
  
 cmake_minimum_required(VERSION 2.8.3)
-project(navfn)
+project(asr_navfn)
 
 find_package(catkin REQUIRED
     COMPONENTS

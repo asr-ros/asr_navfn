@@ -70,7 +70,7 @@ namespace navfn
 
             plan_pub_ = private_nh.advertise<nav_msgs::Path>("plan", 1);
 
-            private_nh.param("visualize_potential", visualize_potential_, false);
+            private_nh.param("visualize_potential", visualize_potential_, true);
 
             //if we're going to visualize the potential array we need to advertise
             if(visualize_potential_)

@@ -51,7 +51,6 @@
 #define COST_OBS 254		// 254 for forbidden regions
 #define COST_OBS_ROS 2000	// ROS values of 253 are obstacles
 
-
 // navfn cost values are set to
 // COST_NEUTRAL + COST_FACTOR * costmap_cost_value.
 // Incoming costmap cost values are in the range 0 to 252.
